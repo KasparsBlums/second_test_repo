@@ -18,7 +18,7 @@
 
 1. Klonējiet repozitoriju uz savu datoru:
 
-git clone https://github.com/jūsu-lietotājvārds/agro-kultura-repo.git
+git clone https://github.com/KasparsBlums/second_test_repo.git
 
 
 2. Atveriet lapas index.html, jebkurā web pārlūkprogrammā.
