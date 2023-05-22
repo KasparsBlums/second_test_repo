@@ -19,7 +19,9 @@
 1. Klonējiet repozitoriju uz savu datoru:
 
 git clone https://github.com/KasparsBlums/second_test_repo.git
-or
+
+vai 
+
 git clone git@github.com:KasparsBlums/second_test_repo.git
 
 
